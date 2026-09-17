@@ -15,18 +15,18 @@
 
 <br/><br/>
 
-<a href="https://github.com/AlveseMoraes223?tab=repositories">
+<a href="https://github.com/devmaiko446?tab=repositories">
   <img src="https://img.shields.io/badge/PROJETOS-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
 </a>
-<a href="https://github.com/AlveseMoraes223">
+<a href="https://github.com/devmaiko446">
   <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AlveseMoraes223&label=VISUALIZA%C3%87%C3%95ES&color=7C3AED&style=flat-square" />
-<img src="https://img.shields.io/github/followers/AlveseMoraes223?label=SEGUIDORES&style=flat-square&color=4F46E5&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/AlveseMoraes223?affiliations=OWNER&label=ESTRELAS&style=flat-square&color=8B5CF6&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=devmaiko446&label=VISUALIZA%C3%87%C3%95ES&color=7C3AED&style=flat-square" />
+<img src="https://img.shields.io/github/followers/devmaiko446?label=SEGUIDORES&style=flat-square&color=4F46E5&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/devmaiko446?affiliations=OWNER&label=ESTRELAS&style=flat-square&color=8B5CF6&labelColor=111827" />
 
 </div>
 
@@ -225,7 +225,7 @@ Sistema integrado para centralização de informações, controles e indicadores
 | **Arquitetura** | Aplicação modular orientada a processos de SST |
 | **Gestão** | Indicadores, registros e acompanhamento operacional |
 | **Objetivo** | Estruturar uma camada digital de gestão para SST |
-| **Repositório** | Privado — projeto corporativo |
+| **Repositório** | Privado — projeto independente |
 
 </details>
 
@@ -296,12 +296,12 @@ explorando:
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=AlveseMoraes223&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&locale=pt-br" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlveseMoraes223&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&locale=pt-br" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=devmaiko446&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&locale=pt-br" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaiko446&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&locale=pt-br" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AlveseMoraes223&hide_border=true&background=0D1117&stroke=30363D&ring=7C3AED&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=818CF8&dates=8B949E&locale=pt_BR" />
+<img src="https://streak-stats.demolab.com?user=devmaiko446&hide_border=true&background=0D1117&stroke=30363D&ring=7C3AED&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=818CF8&dates=8B949E&locale=pt_BR" />
 
 </div>
 
@@ -311,20 +311,20 @@ explorando:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlveseMoraes223&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devmaiko446&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" />
 
 </div>
 
 ---
 
-## Cobra de Contribuições
+## Contribuições
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlveseMoraes223/AlveseMoraes223/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlveseMoraes223/AlveseMoraes223/output/github-contribution-grid-snake.svg">
-  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/AlveseMoraes223/AlveseMoraes223/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmaiko446/devmaiko446/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmaiko446/devmaiko446/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/devmaiko446/devmaiko446/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -335,11 +335,11 @@ explorando:
 
 ### Dados → Informação → Inteligência → Decisão → Ação
 
-**Meu objetivo não é criar mais relatórios. É construir decisões de gestão melhores.**
+**Meu objetivo não é criar mais relatórios. É ajudar a construir decisões de gestão melhores.**
 
 <br/>
 
-<a href="https://github.com/AlveseMoraes223">
+<a href="https://github.com/devmaiko446">
   <img src="https://img.shields.io/badge/ACOMPANHE%20MEU%20TRABALHO-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
 </a>
 
