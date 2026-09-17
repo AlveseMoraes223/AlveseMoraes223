@@ -1,22 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:312E81,70:6D28D9,100:8B5CF6&height=220&section=header&text=MAICON&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=Controllership%20%7C%20Business%20Intelligence%20%7C%20Data%20%26%20Automation&descAlignY=57&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:312E81,70:6D28D9,100:8B5CF6&height=220&section=header&text=MAICON&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=Controladoria%20%7C%20Business%20Intelligence%20%7C%20Dados%20%26%20Automa%C3%A7%C3%A3o&descAlignY=57&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Transforming+data+into+management+decisions;Building+BI%2C+automation+and+corporate+systems;Connecting+finance%2C+operations+and+technology;From+ERP+data+to+executive+intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Transformando+dados+em+decis%C3%B5es+gerenciais;Construindo+BI%2C+automa%C3%A7%C3%B5es+e+sistemas+corporativos;Conectando+finan%C3%A7as%2C+opera%C3%A7%C3%B5es+e+tecnologia;Do+ERP+%C3%A0+intelig%C3%AAncia+executiva" alt="Animação de apresentação" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CONTROLLERSHIP-312E81?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CONTROLADORIA-312E81?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-4F46E5?style=for-the-badge&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA%20%26%20AUTOMATION-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/CORPORATE%20SYSTEMS-6D28D9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DADOS%20%26%20AUTOMA%C3%87%C3%83O-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/SISTEMAS%20CORPORATIVOS-6D28D9?style=for-the-badge&logoColor=white" />
 
 <br/><br/>
 
 <a href="https://github.com/AlveseMoraes223?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/PROJETOS-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
 </a>
 <a href="https://github.com/AlveseMoraes223">
   <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
@@ -24,15 +24,15 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AlveseMoraes223&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
-<img src="https://img.shields.io/github/followers/AlveseMoraes223?label=FOLLOWERS&style=flat-square&color=4F46E5&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/AlveseMoraes223?affiliations=OWNER&label=STARS&style=flat-square&color=8B5CF6&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=AlveseMoraes223&label=VISUALIZA%C3%87%C3%95ES&color=7C3AED&style=flat-square" />
+<img src="https://img.shields.io/github/followers/AlveseMoraes223?label=SEGUIDORES&style=flat-square&color=4F46E5&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/AlveseMoraes223?affiliations=OWNER&label=ESTRELAS&style=flat-square&color=8B5CF6&labelColor=111827" />
 
 </div>
 
 ---
 
-## About
+## Sobre
 
 Atuo na interseção entre **Controladoria, Finanças, Business Intelligence, Dados, Automação e Sistemas Corporativos**.
 
@@ -58,7 +58,7 @@ Indicadores → Diagnóstico → Decisão → Ação
 
 ---
 
-## Executive & Business Expertise
+## Experiência Executiva e de Negócios
 
 | Área | Aplicação |
 |---|---|
@@ -69,13 +69,13 @@ Indicadores → Diagnóstico → Decisão → Ação
 | **Fluxo de Caixa** | Visibilidade de entradas, saídas e compromissos financeiros |
 | **Compras** | Pedidos, fornecedores, aprovações, saving, lead time e performance |
 | **Frota** | Custos por veículo, categoria, centro de custo e tipo de frota |
-| **RH Analytics** | Headcount, folha, custo médio, turnover, absenteísmo e terceiros |
+| **Analytics de RH** | Headcount, folha, custo médio, turnover, absenteísmo e terceiros |
 | **SST** | Indicadores e sistemas de gestão de Segurança e Saúde no Trabalho |
 | **Governança de Dados** | Padronização, chaves, validações, qualidade e rastreabilidade |
 
 ---
 
-## Decision Intelligence
+## Inteligência para Decisão
 
 | Pergunta da Diretoria | Como transformo em análise |
 |---|---|
@@ -89,9 +89,9 @@ Indicadores → Diagnóstico → Decisão → Ação
 
 ---
 
-## Tech Stack
+## Tecnologias e Ferramentas
 
-### Analytics & Business Intelligence
+### Análise de Dados & Business Intelligence
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Indicadores → Diagnóstico → Decisão → Ação
 
 </div>
 
-### Data, Automation & Backend
+### Dados, Automação & Backend
 
 <div align="center">
 
@@ -112,11 +112,11 @@ Indicadores → Diagnóstico → Decisão → Ação
 
 <img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=818CF8" />
 <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/ETL%20%26%20Data%20Pipelines-111827?style=for-the-badge&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/ETL%20%26%20PIPELINES%20DE%20DADOS-111827?style=for-the-badge&logoColor=A78BFA" />
 
 </div>
 
-### Corporate Applications
+### Aplicações Corporativas
 
 <div align="center">
 
@@ -132,10 +132,10 @@ Indicadores → Diagnóstico → Decisão → Ação
 
 ---
 
-## Selected Enterprise Projects
+## Projetos Corporativos Selecionados
 
 <details>
-<summary><strong>Protheus Data Automation</strong></summary>
+<summary><strong>Automação de Dados do Protheus</strong></summary>
 
 <br/>
 
@@ -143,7 +143,7 @@ Automação para conectar dados operacionais do **TOTVS Protheus** a uma camada 
 
 | Dimensão | Implementação |
 |---|---|
-| **Stack** | Python · GitHub Actions · Selenium · Supabase · PostgreSQL |
+| **Tecnologias** | Python · GitHub Actions · Selenium · Supabase · PostgreSQL |
 | **Integração** | TOTVS Protheus → extração → validação → armazenamento analítico |
 | **Governança** | Validação de arquivos, controle de carga, rastreabilidade e consistência |
 | **Objetivo** | Automatizar a disponibilidade de dados para análise gerencial |
@@ -156,7 +156,7 @@ O projeto aplica conceitos de **automação, integração com sistema legado, in
 <br/>
 
 <details>
-<summary><strong>Procurement Intelligence</strong></summary>
+<summary><strong>Inteligência de Compras</strong></summary>
 
 <br/>
 
@@ -164,7 +164,7 @@ Sistema de inteligência de compras estruturado para consolidar pedidos, fornece
 
 | Dimensão | Implementação |
 |---|---|
-| **Stack** | React · TypeScript · Supabase · Protheus · Excel/BI |
+| **Tecnologias** | React · TypeScript · Supabase · Protheus · Excel/BI |
 | **Visão Gerencial** | Compras por período, obra, fornecedor e status |
 | **Indicadores** | Volume, saving, lead time, aprovações e acompanhamento de pedidos |
 | **Objetivo** | Transformar dados transacionais de compras em gestão e decisão |
@@ -175,7 +175,7 @@ Sistema de inteligência de compras estruturado para consolidar pedidos, fornece
 <br/>
 
 <details>
-<summary><strong>Fleet Cost Intelligence</strong></summary>
+<summary><strong>Inteligência de Custos de Frota</strong></summary>
 
 <br/>
 
@@ -183,7 +183,7 @@ Modelo analítico para acompanhamento de custos de frota com classificação por
 
 | Dimensão | Implementação |
 |---|---|
-| **Stack** | Excel · BI · React · TypeScript · Data Modeling |
+| **Tecnologias** | Excel · BI · React · TypeScript · Modelagem de Dados |
 | **Análises** | Combustível, manutenção, terceiros e custos por veículo |
 | **Gestão** | Comparativos, tendências, rateios e concentração de gastos |
 | **Objetivo** | Dar visibilidade econômica da frota para decisões de gestão |
@@ -194,7 +194,7 @@ Modelo analítico para acompanhamento de custos de frota com classificação por
 <br/>
 
 <details>
-<summary><strong>People Cost Pulse</strong></summary>
+<summary><strong>People Cost Pulse — Inteligência de RH</strong></summary>
 
 <br/>
 
@@ -202,7 +202,7 @@ Ambiente de analytics para transformar dados de RH em indicadores econômicos e 
 
 | Dimensão | Implementação |
 |---|---|
-| **Stack** | Excel · React · TypeScript · Supabase · Data Modeling |
+| **Tecnologias** | Excel · React · TypeScript · Supabase · Modelagem de Dados |
 | **Indicadores** | Headcount, folha, custo médio, horas extras, turnover e absenteísmo |
 | **Escopo** | CLT, PJ, terceiros, férias e contratos |
 | **Objetivo** | Evoluir RH administrativo para gestão orientada a dados |
@@ -213,7 +213,7 @@ Ambiente de analytics para transformar dados de RH em indicadores econômicos e 
 <br/>
 
 <details>
-<summary><strong>SIGSST AM — Integrated Safety Management</strong></summary>
+<summary><strong>SIGSST AM — Gestão Integrada de SST</strong></summary>
 
 <br/>
 
@@ -221,7 +221,7 @@ Sistema integrado para centralização de informações, controles e indicadores
 
 | Dimensão | Implementação |
 |---|---|
-| **Stack** | React · TypeScript · Supabase · GitHub |
+| **Tecnologias** | React · TypeScript · Supabase · GitHub |
 | **Arquitetura** | Aplicação modular orientada a processos de SST |
 | **Gestão** | Indicadores, registros e acompanhamento operacional |
 | **Objetivo** | Estruturar uma camada digital de gestão para SST |
@@ -232,7 +232,7 @@ Sistema integrado para centralização de informações, controles e indicadores
 <br/>
 
 <details>
-<summary><strong>Controllership Management Platform</strong></summary>
+<summary><strong>Plataforma de Gestão de Controladoria</strong></summary>
 
 <br/>
 
@@ -240,7 +240,7 @@ Projeto orientado à consolidação de informações financeiras e operacionais 
 
 | Dimensão | Implementação |
 |---|---|
-| **Stack** | React · TypeScript · Excel · SQL concepts · BI |
+| **Tecnologias** | React · TypeScript · Excel · conceitos de SQL · BI |
 | **Finanças** | DRE, custos, desvios, Budget, Forecast, CAPEX e OPEX |
 | **Integração** | Dados de áreas operacionais convertidos em visão gerencial |
 | **Objetivo** | Criar uma camada de inteligência para Controladoria e Diretoria |
@@ -250,81 +250,81 @@ Projeto orientado à consolidação de informações financeiras e operacionais 
 
 ---
 
-## Engineering Principles
+## Princípios de Engenharia
 
 ```text
-01. Business first        → tecnologia precisa resolver uma decisão ou processo real
-02. Single source         → uma mesma regra deve produzir o mesmo número em toda a empresa
-03. Traceability          → todo KPI precisa voltar até sua origem
-04. Automation            → processo recorrente e previsível não deve depender de trabalho manual
-05. Data quality          → dashboard bonito com dado ruim continua sendo dado ruim
-06. Scalability           → a solução precisa funcionar depois que o volume e a complexidade crescerem
-07. Governance            → acesso, responsabilidade, regra e fonte precisam estar claros
-08. Executive clarity     → menos ruído, mais informação que permita decidir
+01. Negócio primeiro         → tecnologia precisa resolver uma decisão ou processo real
+02. Fonte única da verdade   → uma mesma regra deve produzir o mesmo número em toda a empresa
+03. Rastreabilidade          → todo KPI precisa voltar até sua origem
+04. Automação                → processo recorrente e previsível não deve depender de trabalho manual
+05. Qualidade dos dados      → dashboard bonito com dado ruim continua sendo dado ruim
+06. Escalabilidade           → a solução precisa funcionar depois que o volume e a complexidade crescerem
+07. Governança               → acesso, responsabilidade, regra e fonte precisam estar claros
+08. Clareza executiva        → menos ruído, mais informação que permita decidir
 ```
 
 ---
 
-## Current Focus
+## Foco Atual
 
 ```yaml
-learning:
-  - Advanced Data Engineering
-  - Financial Modeling
-  - Predictive Analytics
-  - SQL and Relational Databases
-  - Enterprise Data Governance
+aprendendo:
+  - Engenharia de Dados Avançada
+  - Modelagem Financeira
+  - Análise Preditiva
+  - SQL e Bancos de Dados Relacionais
+  - Governança de Dados Corporativa
 
-building:
-  - Executive Management Dashboards
-  - ERP Data Automation Pipelines
-  - Corporate Management Systems
-  - Controllership Analytics
-  - AI-assisted Business Analysis
+construindo:
+  - Dashboards Executivos de Gestão
+  - Pipelines de Automação de Dados de ERP
+  - Sistemas Corporativos de Gestão
+  - Analytics de Controladoria
+  - Análises de Negócios Assistidas por IA
 
-exploring:
-  - AI Agents for Corporate Workflows
-  - Forecasting and Scenario Analysis
-  - Modern Data Stack Architecture
-  - Decision Intelligence
-  - Process Automation at Scale
+explorando:
+  - Agentes de IA para Fluxos Corporativos
+  - Forecast e Análise de Cenários
+  - Arquiteturas Modernas de Dados
+  - Inteligência para Decisão
+  - Automação de Processos em Escala
 ```
 
 ---
 
-## GitHub Analytics
+## Análises do GitHub
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=AlveseMoraes223&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlveseMoraes223&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=AlveseMoraes223&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&locale=pt-br" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlveseMoraes223&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&locale=pt-br" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AlveseMoraes223&hide_border=true&background=0D1117&stroke=30363D&ring=7C3AED&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=818CF8&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=AlveseMoraes223&hide_border=true&background=0D1117&stroke=30363D&ring=7C3AED&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=818CF8&dates=8B949E&locale=pt_BR" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## Atividade de Contribuições
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlveseMoraes223&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlveseMoraes223&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" />
 
 </div>
 
 ---
 
-## Contribution Snake
+## Cobra de Contribuições
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlveseMoraes223/AlveseMoraes223/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlveseMoraes223/AlveseMoraes223/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AlveseMoraes223/AlveseMoraes223/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/AlveseMoraes223/AlveseMoraes223/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -333,14 +333,14 @@ exploring:
 
 <div align="center">
 
-### Data → Information → Intelligence → Decision → Action
+### Dados → Informação → Inteligência → Decisão → Ação
 
-**My goal is not to build more reports. It is to build better management decisions.**
+**Meu objetivo não é criar mais relatórios. É construir decisões de gestão melhores.**
 
 <br/>
 
 <a href="https://github.com/AlveseMoraes223">
-  <img src="https://img.shields.io/badge/Follow%20my%20work-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/ACOMPANHE%20MEU%20TRABALHO-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
 </a>
 
 </div>
