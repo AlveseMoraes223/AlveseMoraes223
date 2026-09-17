@@ -292,26 +292,16 @@ explorando:
 
 ---
 
-## Análises do GitHub
+## Resumo do GitHub
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=devmaiko446&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED&locale=pt-br" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaiko446&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&locale=pt-br" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmaiko446&theme=tokyonight" alt="Resumo de atividade do GitHub" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=devmaiko446&hide_border=true&background=0D1117&stroke=30363D&ring=7C3AED&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=818CF8&dates=8B949E&locale=pt_BR" />
-
-</div>
-
----
-
-## Atividade de Contribuições
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devmaiko446&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devmaiko446&theme=tokyonight" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devmaiko446&theme=tokyonight&utcOffset=-3" alt="Horários de maior atividade no GitHub" />
 
 </div>
 
